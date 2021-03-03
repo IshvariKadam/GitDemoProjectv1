@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EvenOdd {
+public class EvenOdd1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
